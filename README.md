@@ -1,2 +1,2 @@
 # FSST4BHEL
-Test Repository for FSST1
+Test Repository for FSST
